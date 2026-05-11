@@ -38,7 +38,7 @@ ejercicio_8.png
 ejercicio_9.png
 ejrcicio_9.ino
 
-// Manejo Analógico:
+// Manejo analogico:
 
 ejercicio_part2.1.ino
 ejercicio_part2.1.png
@@ -55,7 +55,7 @@ ejercicio_part2.6.png
 ejercicio_part2.7.ino
 ejercicio_part2.7.png
 
-// Mezclados Analógico/Digital:
+// Mezclados analogico/digital:
 
 ejercicio_part3.3.png
 ejercicio_part3.1.png

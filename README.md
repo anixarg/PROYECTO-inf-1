@@ -2,7 +2,7 @@
 Datos del Alumno:
 - Nombre y Apellido: Anabella Flores Quispe
 - Correo: anabellajk200@gmail.com
-- Curso y División: 4°1
+- Curso y Division: 4°1
 
 Datos del Docente:
 - Nombre y Apellido: Gonzalo Consorti
@@ -11,7 +11,7 @@ Datos del Docente:
 Materia: Proyecto: 1
 
 Descripcion:
-Esta materia se enfoca en el desarrollo de proyectos practicos con Arduino, abarcando el manejo digital, analogico, el manejo analogico/digital conbinados y la combinación para crear sistemas interactivos con LEDs, botones, potenciometros y buzzers.
+Esta materia se enfoca en el desarrollo de proyectos practicos con Arduino, abarcando el manejo digital, analogico, el manejo analogico/digital conbinados y la combinacion para crear sistemas interactivos con LEDs, botones, potenciometros y buzzers.
 
 Estructura del repositorio:
 PROYECTO-inf_1

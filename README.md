@@ -67,7 +67,7 @@ ejercicio_part3.3.ino
 Consignas a Resolver:
 1. Manejo digital:
 
-a. Simular el cicl1o de encendido de luces de un semaforo, tanto el del auto como el peatonal al mismo tiempo.
+a. Simular el ciclo de encendido de luces de un semaforo, tanto el del auto como el peatonal al mismo tiempo.
 
 b. Prender una seria de 10 led comunes en una secuencia de escalera.
 

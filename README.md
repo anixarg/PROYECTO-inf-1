@@ -32,6 +32,7 @@ Utilizar un buzzer que emita un sonido cuando cambien los colores.
 Personalizar los colores RGB utilizando 3 potenciometros independientes.
 Realizar parpadeos aproximados de 100 ms entre cambios de color.
 Mostrar informacion en el monitor serial con el siguiente formato:
+
 Tiempo: x 
 
 R:x
@@ -39,9 +40,10 @@ R:x
 G:x 
 
 B:x
+
 Donde:
-* x representa el tiempo en segundos.
-* R, G y B representan valores entre 0 y 255.
+x representa el tiempo en segundos.
+R, G y B representan valores entre 0 y 255.
 
 Tambien utilizando esta formula para escalar valores analogicos:
 (value * 255) / 1023

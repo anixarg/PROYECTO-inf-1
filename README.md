@@ -8,6 +8,7 @@ Materia: PROYECTO 1
 Docente: Gonzalo Consorti
 
 Descripcion de la materia:
+
 En esta materia trabajamos con programacion y electronica utilizando Arduino, desarrollando circuitos electronicos basicos y sistemas interactivos mediante el uso de componentes como LEDs RGB, 
 
 potenciometros, buzzers y pulsadores osea botones.

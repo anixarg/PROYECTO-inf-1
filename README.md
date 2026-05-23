@@ -1,10 +1,15 @@
 # PROYECTO-inf-1
 
 Datos del alumno:
+
 Nombre y Apellido: Anabella Flores Quispe
+
 Correo: anabellajk200@gmail.com
+
 Curso y Division: 4°1
+
 Materia: PROYECTO 1
+
 Docente: Gonzalo Consorti
 
 Descripcion de la materia:

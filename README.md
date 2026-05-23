@@ -1,8 +1,8 @@
 # PROYECTO-inf-1
-Datos del alumno
 
+Datos del alumno:
 Nombre y Apellido: Anabella Flores Quispe
-Correo: [tucorreo@gmail.com](mailto:tucorreo@gmail.com)
+Correo: anabellajk200@gmail.com
 Curso y Division: 4°1
 Materia: PROYECTO 1
 Docente: Gonzalo Consorti
@@ -33,8 +33,11 @@ Personalizar los colores RGB utilizando 3 potenciometros independientes.
 Realizar parpadeos aproximados de 100 ms entre cambios de color.
 Mostrar informacion en el monitor serial con el siguiente formato:
 Tiempo: x 
-R:x 
+
+R:x
+
 G:x 
+
 B:x
 Donde:
 * x representa el tiempo en segundos.

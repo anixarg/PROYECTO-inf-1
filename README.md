@@ -49,7 +49,7 @@ Dependiendo de la temperatura medida, se enciende un color especifico del LED RG
 * Verde para temperaturas comprendidas entre 18°C y 90°C.
 El LED RGB solamente se activa cuando el nivel de luz ambiental se encuentra entre el 30% y el 70%.
 
-Comentarios sobre Complicaciones:
+Complicaciones:
 
 Durante el desarrollo se presentaron algunos problemas:
 La calibracion del sensor TMP35 en la simulacion.
